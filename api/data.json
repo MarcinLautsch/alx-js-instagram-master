@@ -1,0 +1,104 @@
+{
+  "messages": [
+    {
+      "id": 1669462711856,
+      "author": "dsads",
+      "message": "dsadas"
+    },
+    {
+      "author": "Zmieniony Author111",
+      "message": "Zmienione Message123",
+      "id": 1669463987528
+    },
+    {
+      "author": "dassda",
+      "message": "dsadsadas",
+      "id": 1669478222396
+    },
+    {
+      "id": 1669478230101,
+      "author": "xxxxx",
+      "message": "yyyyy"
+    },
+    {
+      "id": 1669478314917,
+      "author": "Dodaje nowy posty",
+      "message": "o 16:58"
+    },
+    {
+      "id": 1669557740566,
+      "author": "Damian",
+      "message": "Jest fajnie"
+    },
+    {
+      "id": 1669557805426,
+      "author": "dsadas",
+      "message": "dsadas"
+    }
+  ],
+  "users": [
+    {
+      "email": "dsadas@wp.pl",
+      "password": "123123",
+      "name": "",
+      "avatar": "",
+      "id": 1
+    },
+    {
+      "id": 1669545971619,
+      "email": "dsadas@wp.pl",
+      "password": "123123",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669546060709,
+      "email": "randall@fri.org",
+      "password": "1234",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669546098773,
+      "email": "randall@fri.org",
+      "password": "21FRItemp!",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669546120920,
+      "email": "",
+      "password": "",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669546470316,
+      "email": "dsadsadsadas@",
+      "password": "dsadsadsads",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669546706090,
+      "email": "dsadsa@",
+      "password": "123322",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669548002701,
+      "email": "damian@wp.pl",
+      "password": "123456",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669549761430,
+      "email": "damian2@wp.pl",
+      "password": "123123123",
+      "name": "",
+      "avatar": ""
+    }
+  ]
+}
